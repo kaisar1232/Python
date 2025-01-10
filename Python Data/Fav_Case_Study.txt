@@ -1,0 +1,7 @@
+1. dependant and independant
+2. catagory of algorithm
+3. analysis
+4. resources
+5. alogritham selection and why?
+6. algorithm tunining
+

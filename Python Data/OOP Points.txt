@@ -1,0 +1,4 @@
+important OOP points must you know:
+
+how to create class
+how to create characteristics

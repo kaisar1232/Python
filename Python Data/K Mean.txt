@@ -1,0 +1,13 @@
+K Mean Clustering step
+
+step 1 - decide specific no of clusters 
+	 i.e value of k
+
+Step 2 - randomly assign data points to cluster
+
+step 3 - calculate the centroids
+
+step 4 - reassign the point to closest cluster based on its distance
+
+
+
